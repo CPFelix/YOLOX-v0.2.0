@@ -1,0 +1,1 @@
+python tools/train.py -f exps/example/custom/nano-320X192.py -d 2 -b 256 --fp16 -o -c weights/yolox_nano.pth
